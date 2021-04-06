@@ -27,4 +27,4 @@ Trying to optimize my model I have dropped added another hidden layer and used a
 <img width="882" alt="Screen Shot 2021-04-06 at 5 01 37 AM" src="https://user-images.githubusercontent.com/73204192/113686565-6133a480-9695-11eb-8ea9-33fc0e4b182a.png">
 
 ## Summary
-My deep learning model originally had an accuracy score of 69% - I was unable to increase it. I do believe that using some other activation or optimization function might help, also dropping one other column or some columns might be helpful.
+My deep learning model originally had an accuracy score of 69% - I was unable to increase it. I do believe that using some other activation or optimization function might help, also dropping one other column or some columns might be more efficient.
